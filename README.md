@@ -19,18 +19,6 @@ The game follows the traditional Pong mechanics:
 
 ---
 
-## 📸 Screenshots
-
-### Gameplay
-
-![Gameplay](screenshots/gameplay.png)
-
-### Goal Screen
-
-![Goal Screen](screenshots/goal.png)
-
----
-
 ## ⚙️ Features
 
 - Classic Pong gameplay
@@ -58,13 +46,18 @@ MonoGame is an open-source implementation of Microsoft's **XNA Framework**, wide
 ## 📂 Project Structure
 
 
-Pong/
-│
-├── Pong.sln
+Pong/ 
+
+Pong.sln
+
 ├── Pong/
+
 │ ├── Game1.cs
+
 │ ├── Program.cs
+
 │ ├── Content/
+
 │ └── Assets
 
 
