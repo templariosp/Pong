@@ -52,7 +52,7 @@ Pong.sln
 
 ├── Pong/
 
-│ ├── Game1.cs
+│ ├── Pong.cs
 
 │ ├── Program.cs
 
